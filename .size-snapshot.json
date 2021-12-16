@@ -22,5 +22,29 @@
         "code": 24005
       }
     }
+  },
+  "dist\\react-beautiful-dnd.js": {
+    "bundled": 365328,
+    "minified": 133684,
+    "gzipped": 39574
+  },
+  "dist\\react-beautiful-dnd.min.js": {
+    "bundled": 307074,
+    "minified": 108426,
+    "gzipped": 31414
+  },
+  "dist\\react-beautiful-dnd.esm.js": {
+    "bundled": 241424,
+    "minified": 125681,
+    "gzipped": 32722,
+    "treeshaked": {
+      "rollup": {
+        "code": 21121,
+        "import_statements": 503
+      },
+      "webpack": {
+        "code": 24005
+      }
+    }
   }
 }
